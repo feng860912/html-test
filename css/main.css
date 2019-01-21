@@ -1,0 +1,63 @@
+.porgram{ 
+    height: 900px ;
+    width: auto;
+    font-size:32px;
+    color :#FFFFFF ;
+    text-align-last: center;
+    line-height:100px;      
+    background-image: url('/Users/shenfeng/Documents/untitled folder/程式/網頁練習用/img/program4.jpeg');
+    background-repeat:repeat-x ;
+}
+.macinbox{
+    height: 400px ;
+    width: 400px;
+    font-size:16px;
+    color :#2CCCC7 ;
+    padding: 230px  70px  190px 230px ; /* div內間距 */
+}
+.mac{ 
+    height: 900px ;
+    width: auto;
+    font-size:16px;
+    color :#2CCCC7 ;
+    line-height:24px;
+    background-image: url('/Users/shenfeng/Documents/untitled folder/程式/網頁練習用/img/mac1.jpg');
+    background-repeat:repeat-x ;
+}
+.box{
+    border:3px solid #a1a1a1;
+    padding:1px 40px; 
+    background:#EFF4E9;
+    width:300px;
+    border-radius:20px;
+} 
+.messagbox{
+    height: 350px ;
+    width: 900px;
+    font-size:16px;
+    color :#2CCCC7 ;
+    padding: 150px 250px 300px 650px ; /* div內間距 */
+}
+.macend{
+   
+    height: 900px ;
+    width: auto;
+    font-size:24px;
+    color :rgb(255, 255, 255) ;
+    line-height:100px;
+    background-image: url('/Users/shenfeng/Documents/untitled folder/程式/網頁練習用/img/mac2.jpg');
+    background-repeat:repeat-x ; 
+}
+.main{
+    width: 80％;
+}
+.content{
+    height:100%;
+    width:230px;
+    color: #844559;
+    background-color:#BED6E1; 
+}
+.center{
+    font-size: 32px;
+    text-align-last: center;
+}
